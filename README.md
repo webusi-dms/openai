@@ -16,7 +16,7 @@
 百度AI大模型-DeepSeek-R1
 
 技术栈<br>
-* 前端采用Python3.9、Flask。
+* Python3.9、Flask。
 
 ## 团队产品
 https://www.webusi.net
